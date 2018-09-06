@@ -3,7 +3,7 @@
 
 /*
 This is multi Line Comment
-Made by Leon Whelan
+Made by OfficialMuffin
 */
 
 int main()
